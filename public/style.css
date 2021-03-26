@@ -11,11 +11,11 @@ body {
 }
 
 #left {
-    height: 100vh;
+    height: 950px;
 }
 
 #right {
-    height: 100vh;
+    height: 950px;
     background: #ffc93c;
 }
 
